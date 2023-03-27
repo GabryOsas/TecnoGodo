@@ -2,11 +2,11 @@ Descrizione
 # TecnoGodo
 Source Code del plugin TecnoGodo 
 
-ATTENZIONE 1** 
+**ATTENZIONE 1** 
 
-Non è il plugin ufficiale del server Roleplay TecnoCraft*
+Non è il plugin ufficiale del server Roleplay *TecnoCraft*
 
-ATTENZIONE 2**
+**ATTENZIONE 2**
 
 Per questo plugin ho usufruito di questa libreria:
 
