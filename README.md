@@ -21,4 +21,3 @@ Per questo plugin ho usufruito di questa libreria:
             <version>2.11.0</version>
         </dependency>
 ```
-[Il mio pulsante](https://www.example.com){: .btn}
