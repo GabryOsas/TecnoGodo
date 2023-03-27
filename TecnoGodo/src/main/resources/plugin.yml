@@ -1,0 +1,8 @@
+name: TecnoGodo
+version: '${project.version}'
+main: me.tecnogodo.TecnoGodo
+api-version: 1.16
+commands:
+  godo:
+    description: Comando per godere!
+    usage: /<commands>

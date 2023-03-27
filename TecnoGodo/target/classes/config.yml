@@ -1,0 +1,12 @@
+Settings:
+  Credits: true
+  Prefix: "&a&lGODO &8| "
+  Title: "&a&lGODO"
+  Subtitle: "&7Stai godendo un botto..."
+  Cooldown: 10
+  Effect:
+    - VILLAGER_HAPPY
+Messages:
+   Wait: "%prefix% &7Aspetta prima di godere di nuovo!"
+   Reload: "%prefix% &7File di configurazione ricaricato con successo!"
+   NoPerms: "%prefix% &7Non hai abbastanza permessi!"

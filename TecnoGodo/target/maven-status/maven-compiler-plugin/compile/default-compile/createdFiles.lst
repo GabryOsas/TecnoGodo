@@ -1,0 +1,5 @@
+me\tecnogodo\utils\Config.class
+me\tecnogodo\utils\TabCompleter.class
+me\tecnogodo\command\GodoCommand.class
+me\tecnogodo\TecnoGodo.class
+me\tecnogodo\listener\OnJoinCredits.class
