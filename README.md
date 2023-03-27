@@ -1,4 +1,4 @@
-Descrizione 
+Descrizione del plugin
 # TecnoGodo
 Source Code del plugin TecnoGodo 
 
