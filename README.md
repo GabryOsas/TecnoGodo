@@ -1,6 +1,23 @@
 Descrizione 
 # TecnoGodo
 Source Code del plugin TecnoGodo 
-ATTENZIONE 
 
-NON É IL PLUGIN UFFICIALE DEL SERVER TECNOCRAFT
+ATTENZIONE 1** 
+
+Non è il plugin ufficiale del server Roleplay TecnoCraft*
+
+ATTENZIONE 2**
+
+Per questo plugin ho usufruito di questa libreria:
+
+```xml
+        <repository>
+            <id>sonatype</id>
+            <url>https://oss.sonatype.org/content/groups/public/</url>
+        </repository>
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.11.0</version>
+        </dependency>
+```
