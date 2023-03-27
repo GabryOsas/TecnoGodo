@@ -4,7 +4,7 @@ Source Code del plugin TecnoGodo
 
 **ATTENZIONE 1** 
 
-Non è il plugin ufficiale del server Roleplay [*TecnoCraft*](https://t.me/TecnoRoleplay)
+Non è il plugin ufficiale del server Roleplay [*TecnoCraft*](https://t.me/TecnoRoleplay "Canale ufficiale del server")
 
 **ATTENZIONE 2**
 
